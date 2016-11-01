@@ -1,0 +1,26 @@
+.page-title
+{
+	color:#0000;
+}
+.sub,.login{
+	background-color:#21c2f8;
+	color:#ffff;
+}
+.text-muted a,.forgot {
+	color:#21c2f8 !important;
+}
+span .alert-danger{
+	background-color:none !important; 
+}
+
+.input-xlarge{
+  height:50px;
+   width:100%;
+}
+.error{
+  color:#a94442;
+}
+.required{
+  color:red;
+  font-weight:300;
+}
